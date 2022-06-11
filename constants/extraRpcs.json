@@ -117,6 +117,12 @@
             "https://rpc.hermesdefi.io/",
             "https://rpc.ankr.com/harmony",
             "https://harmony-mainnet.chainstacklabs.com"
+            "https://iad.api.harmony.one/"
+            "https://sin.api.harmony.one/"
+            "https://rpc.cosmicuniverse.one/"
+            "https://one.rpcgator.com/"
+            "https://rpc.onechain.services/"
+            "https://rpc.foxswap.fi/"
         ]
     },
     "1313161554": {
